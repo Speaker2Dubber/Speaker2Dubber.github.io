@@ -394,7 +394,12 @@ Reference Audio：
 ### Sample #1
 #### Script: How do we know that this isn't some trick?
 #### Ground truth:
-<video controls src="zeroshot\sample1\gt.mp4" title="Title"></video>
+<video width="320" height="140" controls>
+  <source src="zeroshot\sample1\gt.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<!-- <video controls src="zeroshot\sample1\gt.mp4" title="Title"></video> -->
 <table border="1">
   <tr>
     <td>
@@ -444,7 +449,10 @@ Reference Audio：
 ### Sample #2
 #### Script: Now what?
 #### Ground truth:
-<video controls src="zeroshot\sample2\gt.mp4" title="Title"></video>
+<video width="320" height="140" controls>
+  <source src="zeroshot\sample2\gt.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <table border="1">
   <tr>
     <td>
@@ -494,7 +502,10 @@ Reference Audio：
 ### Sample #3
 #### Script: It's a lot of responsibility.
 #### Ground truth:
-<video controls src="zeroshot/sample3/gt.mp4" title="Title"></video>
+<video width="320" height="140" controls>
+  <source src="zeroshot\sample3\gt.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <table border="1">
   <tr>
     <td>
